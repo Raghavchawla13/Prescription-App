@@ -21,13 +21,14 @@ A comprehensive web-based medical prescription management application built with
 ## 📷 Screenshots
 
 
-![Home](screenshots/p1.png)
-![AI Symptom Checker](screenshots/p2.png)
-![Appointments](screenshots/p3.png)
-![Digital Prescriptions](screenshots/p4.png)
-![Medical History](screenshots/p5.png)
-![Dashboard](screenshots/p6.png)
-![Reports](screenshots/p7.png)
+![Home (English)](https://github.com/Raghavchawla13/Prescription-App/blob/main/p1.png)
+![Home (Hindi)](https://github.com/Raghavchawla13/Prescription-App/blob/main/p2.png)
+![Dashboard](https://github.com/Raghavchawla13/Prescription-App/blob/main/p3.png)
+![AI Symptom Checker](https://github.com/Raghavchawla13/Prescription-App/blob/main/p6.png)
+![Digital Prescriptions](https://github.com/Raghavchawla13/Prescription-App/blob/main/p7.png)
+![AI Chatbot](https://github.com/Raghavchawla13/Prescription-App/blob/main/p4.png)
+![Services](https://github.com/Raghavchawla13/Prescription-App/blob/main/p5.png)
+![Applications](https://github.com/Raghavchawla13/Prescription-App/blob/main/p8.png)
 
 ---
 
