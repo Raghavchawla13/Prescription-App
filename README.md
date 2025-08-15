@@ -40,7 +40,4 @@ A comprehensive web-based medical prescription management application built with
 - MySQL 5.7+ or 8.0+
 - Any modern web browser
 
-### Installation
-```bash
-git clone https://github.com/yourusername/raghav-prescription-app.git
-cd raghav-prescription-app
+
